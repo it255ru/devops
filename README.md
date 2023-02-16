@@ -46,24 +46,32 @@
 ## Network
 
 <details>
-<summary>In general, what do you need in order to communicate?</summary><br><b>
+<summary>Что такое линк?</summary><br><b>
+Линк это соединение между двумя сетевыми устройствами. По смыслу, термин включает в себя как тип соединительной линии (кабеля), так и протоколы, которые работают на этому линке.
+  
+</b></details>
 
-  - A common language (for the two ends to understand)
-  - A way to address who do you want to communicate with
-  - A Connection (so the content of the communication can reach the recipients)
+<details>
+<summary>Перечислите 7 уровней модели OSI</summary><br><b>
+Уровни снизу вверх:
+
+    Физический (Physical)
+    Канальный (Data Link)
+    Сетевой (Network)
+    Транспортный (Transport)
+    Сеансовый (Session)
+    Представления (Presentation)
+    Приложений (Application)
 
 </b></details>
 
 <details>
-<summary>What is TCP/IP?</summary><br><b>
-
-A set of protocols that define how two or more devices can communicate with each other.
-
-To learn more about TCP/IP, read [here](http://www.penguintutor.com/linux/basic-network-reference)
+<summary>Что такое IP - адрес?</summary><br><b>
+Уникальный внутри подсети идентификатор устройства третьего уровня модели OSI. Сейчас его больше всего четвертой версии, но мир идет в сторону IPv6 (шестая версия).
 
 </b></details>
 
-точно потребуется знать, как работает IP, TCP/UDP и, конечно, протокол уровня приложения — например, HTTP, HTTP/2
+
 
 ## Linux
 
@@ -81,3 +89,6 @@ To learn more about TCP/IP, read [here](http://www.penguintutor.com/linux/basic-
 ## Prometheus
 ## ELK
 ## Kubernetes
+## Agile
+## Scrum
+## Kanban
