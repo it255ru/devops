@@ -10,9 +10,9 @@
 <center>
 <table>
   <tr>
-    <td align="center"><a href="topics/network"><br /><b>Network</b></a></td>
-    <td align="center"><a href="topics/linux"><br /><b>Linux</b></a></td>
-    <td align="center"><a href="topics/webt"><br /><b>WEB</b></a></td>
+    <td align="center"><a href="#network"><br /><b>Network</b></a></td>
+    <td align="center"><a href="#linux"><br /><b>Linux</b></a></td>
+    <td align="center"><a href="topics/web"><br /><b>WEB</b></a></td>
     <td align="center"><a href="topics/virtualization"><br /><b>Virtualization</b></a></td>
     <td align="center"><a href="topics/containerization"><br /><b>Containerization</b></a></td>
     <td align="center"><a href="topics/cloud"><br /><b>Cloud Native</b></a></td>
@@ -63,42 +63,21 @@ To learn more about TCP/IP, read [here](http://www.penguintutor.com/linux/basic-
 
 </b></details>
 
-## CI\CD - практика автоматизации DevOps
+точно потребуется знать, как работает IP, TCP/UDP и, конечно, протокол уровня приложения — например, HTTP, HTTP/2
 
+## Linux
+
+
+## CI\CD
 ## Docker
-
-## GIT - контроль версий
-
-## GitLab - CI/CD инструмент на базе Git и инструмент непрерывной интеграции и развёртывания (CI/CD)
-
-## Jenkins - инструмент непрерывной интеграции и развёртывания (CI/CD)
-
-## TeamCity - инструмент непрерывной интеграции и развёртывания (CI/CD)
-
-## Ansible - управление конфигурацией
-
-## Chef - управление конфигурацией
-
-## Puppet - управления конфигурацией
-
-## Terraform - инфраструктура как код (IaC)
-
-## Prometheus - непрерывный мониторинг
-
-## ELK - управление логами
-
-## Kubernetes - оркестрация контейнеров
-
-### ENTRYPOINT vs CMD
-https://habr.com/ru/company/southbridge/blog/329138/
-
-
-7 недостающих факторов в подходе 12 Factor App
-https://habr.com/ru/company/flant/blog/460363/
-
-
-
-
-
-
-
+## GIT
+## GitLab
+## Jenkins
+## TeamCity
+## Ansible
+## Chef
+## Puppet
+## Terraform
+## Prometheus
+## ELK
+## Kubernetes
