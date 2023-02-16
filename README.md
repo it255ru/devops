@@ -90,6 +90,8 @@ https://blog.sedicomm.com/2019/09/25/40-voprosov-dlya-sobesedovaniya-na-temu-lin
 
 ## CI\CD
 ## Docker
+https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
+https://kazarin.online/index.php/2021/04/01/top-20-dockerfile-best-practices/
 ## GIT
 ## GitLab
 ## Jenkins
