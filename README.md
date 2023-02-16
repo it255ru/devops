@@ -44,6 +44,12 @@
 <!-- ALL-TOPICS-LIST:END -->
 
 ## Network
+https://wiki.merionet.ru/seti/45/top-40-voprosov-na-sobesedovanii-it-specialistu/
+https://greendail.ru/node/10
+https://yandex.ru/jobs/pages/neteng-interview
+https://jsehelper.blogspot.com/2016/01/web.html
+http://medicina-treat.ru/25-samykh-populyarnykh-voprosov-i-otvetov-na-sobesedovanii-po-voprosam-ehticheskogo-vzloma/
+https://coderlessons.com/tutorials/kompiuternoe-programmirovanie/etichnyi-khaking/32-interviu-po-kiberbezopasnosti-voprosy-i-otvety
 
 <details>
 <summary>Что такое линк?</summary><br><b>
@@ -66,6 +72,12 @@
 </b></details>
 
 <details>
+<summary>Стек протокола TCP/IP (количество уровней, в чем отличие от классической модели OSI?) </summary><br><b>
+Содержит 5 уровней, совмещены прикладной с представительским уровнем и сеансовый с транспортным.
+
+</b></details>
+
+<details>
 <summary>Что такое IP - адрес?</summary><br><b>
 Уникальный внутри подсети идентификатор устройства третьего уровня модели OSI. Сейчас его больше всего четвертой версии, но мир идет в сторону IPv6 (шестая версия).
 
@@ -74,7 +86,7 @@
 
 
 ## Linux
-
+https://blog.sedicomm.com/2019/09/25/40-voprosov-dlya-sobesedovaniya-na-temu-linux/
 
 ## CI\CD
 ## Docker
@@ -86,9 +98,13 @@
 ## Chef
 ## Puppet
 ## Terraform
+## Zabbix
+https://russianblogs.com/article/71131014036/
 ## Prometheus
 ## ELK
 ## Kubernetes
 ## Agile
 ## Scrum
 ## Kanban
+
+https://pikabu.ru/story/sistemnyiy_administrator_linux_voprosyi_chast_3_7246304
