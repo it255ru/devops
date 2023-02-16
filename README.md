@@ -1,10 +1,36 @@
 # devops вопросы\ответы
 
-<!-- {% raw %} -->
+:information_source: &nbsp; Этот репозиторий содержит вопросы и ответы по различным техническим темам вязанным с DevOps и SRE
 
-## DevOps
+****
 
-На деле конечной целью применения DevOps выступает полная автоматизация всех повторяющихся задач в цикле разработки ПО, начиная с проектирования и заканчивая развёртыванием с последующим управлением релизами.  Автоматизация и оптимизация всех этих процессов в DevOps реализуется с помощью различных инструментов и технологий. В качестве наиболее популярных инструментов здесь можно назвать **Puppet**, **Chef**, **Ansible** и **Jenkins**, а к распространённым технологиям относится автоматизация IT и инфраструктуры. Автоматизация необходима для воплощения в жизнь обещания DevOps по ускоренной доставке высококачественных продуктов. Она упрощает и ускоряет процессы разработки, а также делает их более эффективными, позволяя командам создавать, тестировать, развёртывать и обслуживать код в ускоренном темпе и более качественно по сравнению с ручными подходами.
+<!-- ALL-TOPICS-LIST:START -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<center>
+<table>
+  <tr>
+    <td align="center"><a href="topics/network"><br /><b>Network</b></a></td>
+    <td align="center"><a href="topics/linux"><br /><b>Linux</b></a></td>
+    <td align="center"><a href="topics/webt"><br /><b>WEB</b></a></td>
+    <td align="center"><a href="topics/virtualization"><br /><b>Virtualization</b></a></td>
+    <td align="center"><a href="topics/containerization"><br /><b>Containerization</b></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="topics/devops"><br /><b>DevOps</b></a></td>
+    <td align="center"><a href="topics/cicd"><br /><b>CI/CD</b></a></td>
+    <td align="center"><a href="topics/git"><br /><b>Git</b></a></td>
+    <td align="center"><a href="topics/ansible"><br /><b>Docker</b></a></td>
+    <td align="center"><a href="topics/ansible"><br /><b>Ansible</b></a></td>
+  </tr>
+ 
+</table>
+</center>
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-TOPICS-LIST:END -->
+
+
 
 ## CI\CD - практика автоматизации DevOps
 
@@ -12,13 +38,17 @@
 
 ## GIT - контроль версий
 
-## GitLab - контроль изменений
+## GitLab - CI/CD инструмент на базе Git и инструмент непрерывной интеграции и развёртывания (CI/CD)
 
-## Jenkins - контроль изменений
+## Jenkins - инструмент непрерывной интеграции и развёртывания (CI/CD)
+
+## TeamCity - инструмент непрерывной интеграции и развёртывания (CI/CD)
 
 ## Ansible - управление конфигурацией
 
 ## Chef - управление конфигурацией
+
+## Puppet - управления конфигурацией
 
 ## Terraform - инфраструктура как код (IaC)
 
@@ -26,15 +56,7 @@
 
 ## ELK - управление логами
 
-
-
-## Network
-
-## Linux
-
-## WEB
-
-## Database
+## Kubernetes - оркестрация контейнеров
 
 ### ENTRYPOINT vs CMD
 https://habr.com/ru/company/southbridge/blog/329138/
